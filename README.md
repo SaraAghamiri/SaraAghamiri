@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SaraAghamiri)
 
-I'm an engineer specializing in the development of human-digital twins.
+I'm an engineer specializing in developing human-digital twins and multimodal AI models for precision medicine.
 
 
 <!--
