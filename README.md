@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SaraAghamiri)
 
-I'm an engineer specializing in developing human-digital twins and multimodal AI models for precision medicine.
-
+👩‍💻 I'm an Engineer | Building Digital Twins for Personalized Medicine | Python, R, C++, GO, Wolfram, SQL; Machine Learning, Deep Learning, Generative AI, Web Development
 
 <!--
 **SaraAghamiri/SaraAghamiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
