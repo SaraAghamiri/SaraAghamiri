@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SaraAghamiri)
 
-👩‍💻 I'm an Engineer | Building Digital Twins for Personalized Medicine | Python, R, C++, GO, Wolfram, SQL; Machine Learning, Deep Learning, Generative AI, Web Development
+👩‍💻 I'm an Engineer | Building software and pipelines for Personalized Medicine and Healthcare| Python, R, C++, GO, Wolfram, SQL; Machine Learning, Deep Learning, Generative AI, Web Development
 
 <!--
 **SaraAghamiri/SaraAghamiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
